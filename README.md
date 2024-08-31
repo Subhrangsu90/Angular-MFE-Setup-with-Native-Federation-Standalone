@@ -1,7 +1,3 @@
-Here is the updated documentation with proper headings:
-
----
-
 # **Angular Micro Frontend (MFE) Setup with Native Federation (Standalone)**
 
 This guide outlines the steps to set up an Angular Micro Frontend (MFE) project using native federation with standalone modules.
@@ -165,6 +161,8 @@ npm run mfe2
 ## **References**
 
 - [Micro Frontends with Modern Angular](https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/) - Article by Manfred Steyer
+
+- [Code Repository](https://github.com/Subhrangsu90/Angular-MFE-Setup-with-Native-Federation-Standalone.git) - GitHub repository for this setup.
 
 ---
 
